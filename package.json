@@ -14,7 +14,7 @@
 	"devDependencies": {
 		"@fontsource/fira-mono": "latest",
 		"@neoconfetti/svelte": "latest",
-		"@sveltejs/adapter-cloudflare": "latest",
+		"@sveltejs/adapter-vercel": "latest",
 		"@sveltejs/kit": "latest",
 		"@sveltejs/vite-plugin-svelte": "latest",
 		"svelte": "latest",
@@ -25,5 +25,8 @@
 	"dependencies": {
 		"@cloudflare/workers-types": "latest",
 		"wrangler": "latest"
+	},
+	"engines": {
+		"node": "20.x"
 	}
 }
