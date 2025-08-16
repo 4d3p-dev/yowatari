@@ -1,0 +1,16 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:security@ywtr.org
+Expires: 2026-04-02T15:00:00.000Z
+Encryption: https://ywtr.org/pgp-keys/security/public-0C9E1B5F4B0342EB6A3D65E2021A082341113437.asc
+Preferred-Languages: en, ja
+Canonical: https://ywtr.org/.well-known/security.txt
+# Signed by https://ywtr.org/pgp-keys/security/public-FAB215238285FAA2D9CA98BE25B1B4F888B4662E.asc
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQT6shUjgoX6otnKmL4lsbT4iLRmLgUCZ+1cqQAKCRAlsbT4iLRm
+LlvsAP9e2MdtVShc8w3rbTjSmCuQlKJs0AtuqTnWwNYsWLiYaAD/U65tnJ36VlGi
+L93ywUikmpQX5Igc9/uCM8ph79u6+wo=
+=uaAj
+-----END PGP SIGNATURE-----

@@ -1,0 +1,11 @@
+name = "agares-hp"
+main = "./.cloudflare/worker.js"
+compatibility_date = "2023-06-28"
+
+[site]
+bucket = "./.cloudflare/public"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "yowatari-admins"
+database_id = "69316f70-7314-4b74-a34c-cbd87f2cce0f" 
