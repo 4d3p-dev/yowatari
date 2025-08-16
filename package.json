@@ -14,13 +14,13 @@
 	"devDependencies": {
 		"@fontsource/fira-mono": "latest",
 		"@neoconfetti/svelte": "latest",
-		"@sveltejs/adapter-vercel": "next",
-		"@sveltejs/kit": "next",
-		"@sveltejs/vite-plugin-svelte": "next",
-		"svelte": "next",
-		"svelte-check": "next",
-		"typescript": "next",
-		"vite": "next"
+		"@sveltejs/adapter-vercel": "latest",
+		"@sveltejs/kit": "latest",
+		"@sveltejs/vite-plugin-svelte": "latest",
+		"svelte": "latest",
+		"svelte-check": "latest",
+		"typescript": "latest",
+		"vite": "latest"
 	},
 	"dependencies": {
 		"@cloudflare/workers-types": "latest",
